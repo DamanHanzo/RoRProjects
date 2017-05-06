@@ -1,2 +1,2 @@
 #Ruby on Rails Project
-- All my RoR projects live here
+- All of my RoR projects live here
